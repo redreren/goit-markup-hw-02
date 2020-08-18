@@ -4,13 +4,11 @@
     --name-font-size: 18px;
     --description-font-size: 16px;
     --text-font-size: 14px;
-    --text-color-light-theme: #555555;
-    --text-color-dark-theme: #9da4bd;
-    --title-color-light-theme: #303030;
+    --text-color-light-theme: #757575;
+    --text-color-dark-theme: rgba(255, 255, 255, 0.6);
+    --title-color-light-theme: #212121;
     --title-color-dark-theme: #ffffff;
-    --modal-btn-color-light-theme: #303030;
-    --modal-btn-color-dark-theme: #ffffff;
-    --accent-color: #ff6c00;
+    --accent-color: #2196F3;
 }
 
 body {
